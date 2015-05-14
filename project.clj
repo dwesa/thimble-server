@@ -25,6 +25,9 @@
                  ;; Messaging
                  [com.novemberain/langohr "3.0.1"]]
 
+                 ;; NeoCons / neo4j
+                 ;;[clojurewerkz/neocons "3.1.0-beta3"]
+
             ;; Code Quality tools
   :plugins [[lein-cloverage "1.0.2"]
             [jonase/eastwood "0.2.1"]]
